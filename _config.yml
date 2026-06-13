@@ -1,0 +1,10 @@
+title: Tanishka
+description: Mathematics • Cybersecurity • Research
+theme: minima
+markdown: kramdown
+
+kramdown:
+  math_engine: mathjax
+
+plugins:
+  - jekyll-feed
